@@ -1,0 +1,22 @@
+/**
+ * Class: PalindromeChecker
+ * Logic: Displays application metadata upon startup.
+ */
+public class PalindromeChecker {
+
+    // The entry point of the application
+    public static void main(String[] args) {
+        // Step 1: Display Application Name
+        System.out.println("====================================");
+        System.out.println("Welcome to the Palindrome Checker!");
+        System.out.println("====================================");
+
+        // Step 2: Display Application Version
+        System.out.println("Version: 1.0.0");
+        System.out.println("Status: System Ready...");
+        System.out.println("------------------------------------");
+
+        // Step 3: Transition to next logic or exit
+        System.out.println("Proceeding to palindrome analysis...");
+    }
+}
